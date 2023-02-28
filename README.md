@@ -1,3 +1,1 @@
-a non empty readme file on simple shell
-
-
+Chioma Ogbuneke and Victoria Umoh
